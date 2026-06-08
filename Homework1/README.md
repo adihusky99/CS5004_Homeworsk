@@ -1,8 +1,8 @@
 Name:
 
-Github Account name:
+Github Account name: adihusky99
 
-Link to Assignment on Github: (copy and paste the link to your assignment repo here)
+Link to Assignment on Github: https://github.com/adihusky99/CS5004/edit/main/Homework1
 
 How many hours did it take you to complete this assignment (estimate)?
 
@@ -19,5 +19,6 @@ Did you use any external resources (you do not have to cite in class material)? 
 (Optional) What was your favorite part of the assignment?
 
 (Optional) How would you improve the assignment?
+- A video demonstration for the setup. Was a bit confusing setting things up initially. 
 
 ---
