@@ -73,7 +73,7 @@ public class Greeter {
      * @return the name of the greeter
      */
     public String getName() {
-        return name
+        return name;
     }
 
     /**
@@ -189,10 +189,10 @@ public class Greeter {
      * @return the locality as a string
      */
     private String getLocalityString() {
-        if (locality < 1 || locality >= localityList.size()) {
+        if (locality < 1 || locality > localityList.size()) {
             return "USA";
         }
-        return localityList.get(locality);
+        return localityList.get(locality - 1); // locality is 1-indexed, list is 0-indexed
     }
 
     /**
