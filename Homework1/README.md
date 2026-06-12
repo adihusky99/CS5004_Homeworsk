@@ -15,5 +15,6 @@ one row per resource
 (Optional) What was your favorite part of the assignment?
 
 (Optional) How would you improve the assignment?
+- A video demonstration for the setup. Was a bit confusing setting things up initially. 
 
 A video demonstration for the setup. Was a bit confusing setting things up initially.
