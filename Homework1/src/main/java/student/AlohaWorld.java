@@ -15,8 +15,8 @@ package student;
  * classes and methods. HTML can(and should) be included in these comment types.
  * </p>
  *
- * @author UPDATE with your name
- * @version SEMESTER_YEAR (Su2024 for Summer 24)
+ * @author Aditya
+ * @version SU2026
  **/
 
 // this is a single line comment
