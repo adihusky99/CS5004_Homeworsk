@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e421aa83-be45-4d78-bb33-fa7452ce3017" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="30" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;adihusky99&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/adihusky99/CS5004_Homeworsk.git",
+    "accountId": "c7fee5f7-f385-4078-9209-f7ad6f5b2d0b"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3443909550015194" />
+      <entry key="MS500" value="2.0350908870494324" />
+      <entry key="S2" value="3.6618543515572806" />
+      <entry key="S5" value="7.233321518260158" />
+      <entry key="S10" value="11.118616464597835" />
+      <entry key="S30" value="19.541112811222252" />
+      <entry key="S60" value="25.830181190846254" />
+      <entry key="M2" value="34.50487927932124" />
+      <entry key="M5" value="68.2870172215897" />
+      <entry key="M10" value="109.33694973284022" />
+      <entry key="M15" value="132.04069202509234" />
+      <entry key="M30" value="161.81611860222998" />
+      <entry key="H1" value="180.05819103260276" />
+      <entry key="H2" value="190.45394701856128" />
+      <entry key="H4" value="202.35461110997426" />
+      <entry key="D1" value="296.7055976927027" />
+      <entry key="W1" value="352.9317221362578" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.4543890699425613E-122" />
+      <entry key="S5" value="2.8808142669831615E-49" />
+      <entry key="S10" value="5.367321740852842E-25" />
+      <entry key="S30" value="8.126793224825789E-9" />
+      <entry key="S60" value="9.014872835944911E-5" />
+      <entry key="M2" value="0.009494668417561972" />
+      <entry key="M5" value="0.1552358131766251" />
+      <entry key="M10" value="0.39399976291442673" />
+      <entry key="M15" value="0.5374408091175389" />
+      <entry key="M30" value="0.7331035459725577" />
+      <entry key="H1" value="0.8562146611525383" />
+      <entry key="H2" value="0.925318680862186" />
+      <entry key="H4" value="0.9619348631077814" />
+      <entry key="D1" value="0.9935527829880947" />
+      <entry key="W1" value="0.9990764138999607" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3047582608380552" />
+      <entry key="MS500" value="1.8784684265317506" />
+      <entry key="S2" value="3.4810952420382915" />
+      <entry key="S5" value="7.102368567795489" />
+      <entry key="S10" value="11.029761610003552" />
+      <entry key="S30" value="19.50259872670887" />
+      <entry key="S60" value="25.809222791039467" />
+      <entry key="M2" value="34.50298779792301" />
+      <entry key="M5" value="68.43615525341976" />
+      <entry key="M10" value="109.72681294206491" />
+      <entry key="M15" value="132.57495330456848" />
+      <entry key="M30" value="162.54734876123254" />
+      <entry key="H1" value="180.91338060557163" />
+      <entry key="H2" value="191.37872794166168" />
+      <entry key="H4" value="203.31626465917623" />
+      <entry key="D1" value="297.6990892259647" />
+      <entry key="W1" value="353.93078859285794" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EvK3t59CbtD7IzfM2RTzrWP3dg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.GreeterTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Homework1 [:student.AlohaWorld.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/adityaelayavalli/Desktop/CS5004/Homework/Homework1/homework-01-aloha-world-1/Homework1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <setting name="addClasspath" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e421aa83-be45-4d78-bb33-fa7452ce3017" name="Changes" comment="" />
+      <created>1781053407924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781053407924</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
