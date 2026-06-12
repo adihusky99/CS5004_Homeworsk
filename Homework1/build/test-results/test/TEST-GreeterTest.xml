@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GreeterTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-06-12T19:57:15" hostname="Adityas-MacBook-Pro-2.local" time="0.102">
+  <properties/>
+  <testcase name="testGreet()" classname="GreeterTest" time="0.046"/>
+  <testcase name="testSetLocality()" classname="GreeterTest" time="0.003"/>
+  <testcase name="testToString()" classname="GreeterTest" time="0.006"/>
+  <testcase name="testGetLocality()" classname="GreeterTest" time="0.002"/>
+  <testcase name="testGetName()" classname="GreeterTest" time="0.002"/>
+  <testcase name="testGetLocalityList()" classname="GreeterTest" time="0.002"/>
+  <testcase name="testEquals()" classname="GreeterTest" time="0.005"/>
+  <testcase name="testConstructor()" classname="GreeterTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
