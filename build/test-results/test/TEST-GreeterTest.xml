@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GreeterTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-06-12T20:54:25.654Z" hostname="Adityas-MacBook-Pro-2.local" time="0.192">
+<testsuite name="GreeterTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-06-13T01:17:54.789Z" hostname="Adityas-MacBook-Pro-2.local" time="0.083">
   <properties/>
-  <testcase name="testGreet()" classname="GreeterTest" time="0.086"/>
-  <testcase name="testSetLocality()" classname="GreeterTest" time="0.007"/>
+  <testcase name="testGreet()" classname="GreeterTest" time="0.038"/>
+  <testcase name="testSetLocality()" classname="GreeterTest" time="0.006"/>
   <testcase name="testToString()" classname="GreeterTest" time="0.001"/>
-  <testcase name="testGetLocality()" classname="GreeterTest" time="0.002"/>
+  <testcase name="testGetLocality()" classname="GreeterTest" time="0.001"/>
   <testcase name="testGetName()" classname="GreeterTest" time="0.001"/>
   <testcase name="testGetLocalityList()" classname="GreeterTest" time="0.001"/>
-  <testcase name="testEquals()" classname="GreeterTest" time="0.003"/>
-  <testcase name="testConstructor()" classname="GreeterTest" time="0.003"/>
+  <testcase name="testEquals()" classname="GreeterTest" time="0.002"/>
+  <testcase name="testConstructor()" classname="GreeterTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
